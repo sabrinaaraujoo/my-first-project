@@ -1,15 +1,26 @@
 {
   "projects": [
     {
-      "name": "Sabrina",
-      "budget": "8000",
+      "name": "Projeto Python",
+      "budget": "15000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Projeto Java",
+      "budget": "30000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
-      "id": 1
+      "id": 2
     }
   ],
   "categories": [
