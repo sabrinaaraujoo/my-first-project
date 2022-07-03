@@ -13,13 +13,20 @@
     },
     {
       "name": "Projeto Java",
-      "budget": "30000",
+      "budget": "7000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 100,
+      "services": [
+        {
+          "name": "Programador Java",
+          "cost": "100",
+          "description": "Contratação de um Freelancer Java",
+          "id": "fcb52db0-2947-4e40-8c3d-66aba3954264"
+        }
+      ],
       "id": 2
     }
   ],
