@@ -18,13 +18,19 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 100,
+      "cost": 5100,
       "services": [
         {
           "name": "Programador Java",
           "cost": "100",
           "description": "Contratação de um Freelancer Java",
           "id": "fcb52db0-2947-4e40-8c3d-66aba3954264"
+        },
+        {
+          "name": "Novo serviço",
+          "cost": "5000",
+          "description": "teste",
+          "id": "485a55ae-7cc2-40bd-97f0-8355bd9fecf1"
         }
       ],
       "id": 2
